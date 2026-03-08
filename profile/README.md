@@ -121,7 +121,7 @@ Support from sponsors helps us build and maintain open-source foundations, share
 
 <p>
   <a href="https://trakfox.com">
-    <img src="./assets/sponsors/strategic-example.png" alt="Trakfox Strategic Partner" height="68" />
+    <img src="./assets/sponsors/strategic.png" alt="Trakfox Strategic Partner" height="68" />
   </a>
 </p>
 
@@ -129,7 +129,7 @@ Support from sponsors helps us build and maintain open-source foundations, share
 
 <p>
   <a href="https://dndhub.com">
-    <img src="./assets/sponsors/dndhubs.png" alt="DNDHUBS Sponsor" height="60" />
+    <img src="./assets/sponsors/platinum.png" alt="DNDHUBS Sponsor" height="60" />
   </a>
 </p>
 
@@ -137,7 +137,7 @@ Support from sponsors helps us build and maintain open-source foundations, share
 
 <p>
   <a href="https://geocolab.com">
-    <img src="./assets/sponsors/geocolab.jpg" alt="GEOCoLab Sponsor" height="48" />
+    <img src="./assets/sponsors/gold.png" alt="GEOCoLab Sponsor" height="48" />
   </a>
 </p>
 

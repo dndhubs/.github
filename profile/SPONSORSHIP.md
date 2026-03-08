@@ -14,76 +14,146 @@ Sponsorship directly supports work across:
 - documentation and architecture blueprints
 - integration systems
 - AI-assisted engineering workflows
-- ecosystem products such as DOMSpec, Fluxr, SynAI, GEOCoLab, Trakrr, and DataOrb
+- ecosystem products such as DOMSpec, Fluxr, SynAI, GEOCoLab, Trakrr, MINTLock, and DataOrb
 
-## Sponsorship Tiers
+## Start here
 
-> Final pricing and availability can also be managed through GitHub Sponsors.
+If you are exploring the public side of the ecosystem, start with:
 
-### Supporter
+- [dndhubs/domspec](https://github.com/dndhubs/domspec)
+
+---
+
+## Monthly Sponsorship Tiers
+
+### Supporter — $5/month
 For individuals and early supporters who want to help sustain the ecosystem.
 
-**Suggested benefits**
-- name listed in sponsor acknowledgements
-- supporter badge in sponsor section
-- updates on major releases
+**Benefits**
+- GitHub Sponsor badge
+- name listed in the Supporters section
+- sponsor update emails
+- early visibility into major public milestones
 
-### Bronze
+### Bronze Sponsor — $25/month
 For individuals, indie builders, and small teams.
 
-**Suggested benefits**
-- name listed in README sponsor section
-- acknowledgement on sponsorship page
-- early visibility into major roadmap updates
+**Benefits**
+- name listed in Sponsors section
+- optional link to your profile or website
+- mention on sponsorship page
+- sponsor update emails
 
-### Silver
+### Silver Sponsor — $100/month
 For teams and growing companies that want stronger visibility.
 
-**Suggested benefits**
-- logo listed in sponsor section
-- mention on sponsorship page
-- optional link to sponsor website
-- periodic ecosystem update mentions
+**Benefits**
+- name or logo in sponsor listings
+- optional link on sponsorship page
+- mention in selected release or community updates
+- priority visibility over Bronze sponsors
+- sponsor update emails
 
-### Gold
+### Gold Sponsor — $250/month
 For established companies supporting open standards and reusable developer infrastructure.
 
-**Suggested benefits**
+**Benefits**
 - prominent logo placement in sponsor section
 - logo + link on sponsorship page
-- acknowledgement in selected ecosystem updates
-- priority visibility in partner acknowledgements
+- mention in selected release notes or public updates
+- quarterly sponsor-focused ecosystem update
 
-### Platinum
+### Platinum Sponsor — $1,000/month
 For top-tier sponsors backing long-term ecosystem growth.
 
-**Suggested benefits**
-- featured placement in sponsor section
+**Benefits**
+- featured logo placement
 - logo + company profile link
-- featured acknowledgement in ecosystem-facing materials
-- strategic relationship visibility where appropriate
+- featured recognition on sponsorship page
+- mention in major ecosystem updates where appropriate
+- one sponsor strategy check-in per quarter
+- priority partner visibility
 
-### Strategic Partner
+### Strategic Partner — $2,500/month
 For major ecosystem collaborators and long-term institutional partners.
 
-**Suggested benefits**
+**Benefits**
 - featured partner placement
-- logo + profile link
-- strategic acknowledgement across public-facing ecosystem materials
-- custom collaboration terms handled separately
+- logo + organization profile link
+- strategic acknowledgement across selected public-facing materials
+- one advisory or strategy session per month
+- priority coordination on aligned initiatives
+
+---
+
+## One-Time Sponsorship Tiers
+
+### Shoutout — $10 one-time
+A simple one-time contribution to support DNDHUBS.
+
+**Benefits**
+- public thank-you in sponsor acknowledgements
+
+### Release Notes Mention — $50 one-time
+Support a release or milestone and get acknowledged publicly.
+
+**Benefits**
+- mention in a future release notes or ecosystem update post
+
+### Office Hour / Mentorship — $350 one-time
+A focused one-hour consulting or mentorship session.
+
+**Benefits**
+- 1-hour advisory call
+- architecture, OSS strategy, or implementation guidance
+- follow-up notes or summary
+
+### Pair Programming / Technical Review — $500 one-time
+A focused working session on code, package architecture, or debugging.
+
+**Benefits**
+- 1-hour live technical session
+- pair programming or deep review
+- actionable next-step recommendations
+
+### Team Workshop — $2,000 one-time
+A tailored workshop for your team.
+
+**Benefits**
+- one workshop session for your team
+- topic tailored to your use case
+- optional notes or supporting materials
+
+### Conference / Community Talk — $5,000 one-time
+Invite DNDHUBS to speak at your conference, event, or community.
+
+**Benefits**
+- one talk or presentation
+- theme aligned to standards, architecture, tooling, AI workflows, or ecosystem design
+- basic coordination and prep included
+
+---
 
 ## Sponsor Recognition Policy
 
 Sponsor visibility is subject to:
 - an active sponsorship status
-- a public brand or name approved for display
+- a public brand, logo, or name approved for display
 - compliance with DNDHUBS values and brand safety expectations
 
-DNDHUBS reserves the right to decline or remove public sponsor display where necessary.
+DNDHUBS reserves the right to decline, limit, or remove public sponsor display where necessary.
+
+## Public display requirements
+
+If your sponsorship includes public display, please send:
+- your preferred sponsor name
+- your website or profile URL
+- your logo, if applicable
+- confirmation that you want public listing
 
 ## Become a Sponsor
 
 - [GitHub Sponsors](https://github.com/sponsors/dndhubs)
 - [Open Collective](https://opencollective.com/dndhub)
 - [Website Sponsor](https://dndhubs.com/sponsorship)
-- Contact: [jetroolowole@gmail.com]
+- Contact: [jetroolowole@gmail.com](mailto:jetroolowole@gmail.com)

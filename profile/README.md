@@ -113,7 +113,17 @@ We are especially interested in advancing:
 
 Support from sponsors helps us build and maintain open-source foundations, shared standards, tooling, and ecosystem infrastructure across DNDHUBS.
 
-➡️ **Become a sponsor:** [View sponsorship packages](./SPONSORSHIP.md)
+➡️ **Become a sponsor:** [View sponsorship packages](./SPONSORSHIP.md)  
+➡️ **Sponsor on GitHub:** [github.com/sponsors/dndhubs](https://github.com/sponsors/dndhubs)  
+➡️ **Sponsor on Open Collective:** [https://opencollective.com/dndhub](https://opencollective.com/dndhub)
+
+### Strategic Partners
+
+<p>
+  <a href="https://trakfox.com">
+    <img src="./assets/sponsors/strategic-example.png" alt="Trakfox Strategic Partner" height="68" />
+  </a>
+</p>
 
 ### Platinum Sponsors
 
